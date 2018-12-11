@@ -18,3 +18,21 @@ body {
   border-radius: 20px;
   display: inline-block;
 }
+
+.title {
+  font-family: 'Courier New', Courier, monospace;
+  position: absolute;
+  background-color: black;
+  color: white;
+  margin: 20px;
+  font-size: 20px;
+  text-align: left;
+}
+.title.sub {
+  font-size: 10px;
+  top: 3em;
+}
+
+a {
+  color: white;
+}
